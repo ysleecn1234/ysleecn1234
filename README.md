@@ -4,6 +4,8 @@
 요즘 공부도 많이 해
 지금 사실 배고파
 화장실도 가고 싶어
+1분 남았어
+
 <!--
 **ysleecn1234/ysleecn1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
