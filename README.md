@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+나는 요즘 카페를 다니고 있어.
 <!--
 **ysleecn1234/ysleecn1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
