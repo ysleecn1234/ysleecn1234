@@ -55,6 +55,8 @@
 
 **사용 기술:** Python, TensorFlow, Hugging Face Transformers, Google Cloud Platform, BigQuery, Google Colab, Plotly, Streamlit  
 
+[함께한 프로젝트 팀원들과의 사진 보기](./images/google-team.png)
+
 ---
 
 ## 4. Projects experience
@@ -100,7 +102,3 @@
 - **프레임 워크/라이브러리**: Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib
 - **도구**: Jupyter Notebook, Git, Colab, VS Code
 - **기타**: 데이터 시각화, 모델 성능 분석, 자연어처리, 통계 분석
- 
-
-
-
