@@ -41,7 +41,7 @@
 - PyTorch를 활용한 모델 구현 및 하이퍼파라미터 튜닝으로 성능 18% 향상
   - 학부 연구생으로 지도교수와 함께 논문 초안 작성 및 실험 기록 문서화
  
-## **Google - Mchine Learning Intern(SNS AI Project)**  
+### **Google - Mchine Learning Intern(SNS AI Project)**  
 2026.06 ~ 2026.09  
 > "전 세계 30억 명이 사용하는 SNS 속 감정을 읽는 인공지능을 만들다"
 
