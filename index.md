@@ -15,7 +15,7 @@
 
 ## 2. Education
 
-**광운대학교**  
+### **광운대학교**  
 2022.03 ~ 2027.02 (예정)  
 - **주전공**: 수학과
   - 주요 이수 과목: 이산수학, 신경망딥러닝, 선형대수학, 현대대수학  
@@ -26,18 +26,26 @@
 
 ## 3. Internship
 
-**Eloun -개발팀 인턴**
+### **Eloun -개발팀 인턴**
 2025.07. ~ 2025.12  
 - Python 및 Pandas를 활용한 대규모 데이터 전처리
 - Scikit-learn과 TensorFlow 기반 모델 개발 및 실험
 - 사용자 행동 데이터를 활용한 예측 모델 설계 및 성능 개선
 - 기술 문서 작성 및 모델 결과 시각화
 
+### **AI 리서치 인턴**  
+#### 광운대학교 데이터사이언스 연구실  
+2026.12 ~ 2027.02  
+- 텍스트 분류, 감정 분석, 개체명 인식 관련 NLP 프로젝트 수행
+- Hugging Face 기반 사전학습 모델 fine-tuning 실험
+- PyTorch를 활용한 모델 구현 및 하이퍼파라미터 튜닝으로 성능 18% 향상
+  - 학부 연구생으로 지도교수와 함께 논문 초안 작성 및 실험 기록 문서화
+
 ---
 
 ## 4. Projects experience
 
-**감성 분석 기반 영화 리뷰 분석 시스템(광운대학교 캡스톤 프로젝트)**  
+### **감성 분석 기반 영화 리뷰 분석 시스템(광운대학교 캡스톤 프로젝트)**  
 2024.03 ~ 2024.12  
 - 자연어처리 파이프라인 구축(전처리 -> 임베딩 -> 모델링)
 - Word2Vec, LSTM 모델 기반 감성 분류
@@ -48,7 +56,7 @@
 
 ## 5. Extracurricular Activities 
 
-**광운대학교 AI 연구 동아리 '딥하자'**  
+### **광운대학교 AI 연구 동아리 '딥하자'**  
 2023.03 ~ 현재  
 - 매주 최신 논문 스터디 진행
   - [Attention is All You Need](https://arxiv.org/abs/1706.03762)  
@@ -57,13 +65,27 @@
 - Kaggle 대회 참여 및 팀 프로젝트 운영
 - 자체 해커톤 기획 및 머신러닝 튜토리얼 진행
 
+### **서울 AI포럼 해커톤 참가**  
+2026.08  
+- "SNS에서의 감정 분석을 통한 특정 상황에 대한 반응 예측" 팀 프로젝트
+- KoBERT를 활용한 감정 분류 모델 제작 및 시작화 대시보드 개발
+  - 우수상 수상 
+
 ---
 
-## 6. Skills
+## 6. Awards & Certifications  
+- 정보 처리 기능사 1급
+- TensorFlow Developer Certificate
+- 서울 AI 포럼 해커톤 우수상
+  - CDSC 우수 활동자 선정
+
+---
+
+## 7. Skills
 
 - **언어**: Python, SQL, R
 - **프레임 워크/라이브러리**: Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib
-- **도구ㅜ**: Jupyter Notebook, Git, Colab, VS Code
+- **도구**: Jupyter Notebook, Git, Colab, VS Code
 - **기타**: 데이터 시각화, 모델 성능 분석, 자연어처리, 통계 분석
  
 
