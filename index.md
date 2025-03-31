@@ -102,3 +102,8 @@
 - **프레임 워크/라이브러리**: Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib
 - **도구**: Jupyter Notebook, Git, Colab, VS Code
 - **기타**: 데이터 시각화, 모델 성능 분석, 자연어처리, 통계 분석
+
+--- 
+
+## 추천인
+광운대학교 정보융합학부 박규동 교수
