@@ -40,6 +40,20 @@
 - Hugging Face 기반 사전학습 모델 fine-tuning 실험
 - PyTorch를 활용한 모델 구현 및 하이퍼파라미터 튜닝으로 성능 18% 향상
   - 학부 연구생으로 지도교수와 함께 논문 초안 작성 및 실험 기록 문서화
+ 
+## **Google - Mchine Learning Intern(SNS AI Project)**  
+2026.06 ~ 2026.09  
+> "전 세계 30억 명이 사용하는 SNS 속 감정을 읽는 인공지능을 만들다"
+
+- Google Research 소셜AI팀에 소속되어 **사용자 게시글 기반 감정 예측 모델 개발**에 참여  
+- 전 세계 다국어 데이터를 기반으로 **멀티링구얼 감성 분석 모델** 실험 및 개선  
+- KoBERT, mBERT, RoBERTa 등 다양한 사전학습 언어 모델 비교  
+- **“분노/슬픔/기쁨/중립” 4분류 모델** 정확도 91.2% 달성  
+- SNS 피드에서 실시간으로 데이터를 수집하고 전처리하는 **스트리밍 파이프라인 구축 (GCP 기반)**  
+- 대시보드로 감정 분포 및 추이 시각화 → 팀 내부 의사결정 보조  
+- 공동 저자로 워크숍 논문 초안 작성 참여 (ACL 2027 제출 준비 중)
+
+**사용 기술:** Python, TensorFlow, Hugging Face Transformers, Google Cloud Platform, BigQuery, Google Colab, Plotly, Streamlit  
 
 ---
 
