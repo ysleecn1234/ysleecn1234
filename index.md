@@ -1,6 +1,5 @@
-# Résumé  
-![IMG_4836](https://github.com/user-attachments/assets/6d7b55a7-173a-45f5-a39c-322d065c9129)
-
+# Résumé  (미래 이력서)  
+![IMG_5917](https://github.com/user-attachments/assets/decacc67-cc5c-429f-9d6d-bcbb13c765f6)  
 **이름**: 이지석  
 **연락처**:  010-9664-5746  
 **이메일**: ysleecn1234@gmail.com  
