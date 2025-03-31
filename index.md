@@ -77,7 +77,6 @@
 - 정보 처리 기능사 1급
 - TensorFlow Developer Certificate
 - 서울 AI 포럼 해커톤 우수상
-  - CDSC 우수 활동자 선정
 
 ---
 
